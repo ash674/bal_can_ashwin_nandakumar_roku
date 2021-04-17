@@ -1,0 +1,25 @@
+{
+  "name": "bal_can_ashwin_nandakumar_roku",
+  "version": "1.0.0",
+  "description": "This is a flashback application of Roku streaming platform.",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "nodemon server",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ash674/bal_can_ashwin_nandakumar_roku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ash674/bal_can_ashwin_nandakumar_roku/issues"
+  },
+  "homepage": "https://github.com/ash674/bal_can_ashwin_nandakumar_roku#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
